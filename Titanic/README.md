@@ -15,7 +15,10 @@
 # 실험을 하면서 필요한 정보
 - Titanic의 평가방법인 Accuracy
   - 단, Accuracy에 대한 decision boundary는 최적의 AUC값에서 찾을 거기 때문에 이에대한 threshold값도 제시한다.
- 
+- AUC
+- Prediction에 사용한 Threshold
+- 사용 seed
+- 그 외 모델 또는 K-fold의 hyperparmeter
  
  
  
