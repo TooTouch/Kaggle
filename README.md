@@ -1,13 +1,16 @@
 # kaggle
 
 ## Completed Competition
-### 머신러닝 탐구생활 Study
+
+### Tabular data
 - porto-seguro-safe-driver-prediction_tootouch
+
+### Image data
 - State Farm Distracted Driver Detection
   - Fine tuning
   - Explain classification performance using Grad-CAM
 ### NLP Study
 - Quora Insincere Questions Classification
   - Proceeding...
-### Dacon
+### Tutorial
 - Titanic
